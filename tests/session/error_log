@@ -1,0 +1,28 @@
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3
+[29-Sep-2022 00:47:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3
+[29-Sep-2022 00:47:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\SessionTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/session/ExampleSessionTest.php on line 3

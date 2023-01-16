@@ -1,0 +1,28 @@
+[29-Sep-2022 00:48:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50
+[29-Sep-2022 00:48:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50
+[29-Sep-2022 00:48:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50
+[29-Sep-2022 00:48:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50
+[29-Sep-2022 00:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50
+[29-Sep-2022 00:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50
+[29-Sep-2022 00:48:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Config\App' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Libraries/ConfigReader.php on line 50

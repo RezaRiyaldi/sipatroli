@@ -1,0 +1,28 @@
+[29-Sep-2022 00:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5
+[29-Sep-2022 00:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5
+[29-Sep-2022 00:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5
+[29-Sep-2022 00:48:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5
+[29-Sep-2022 00:48:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5
+[29-Sep-2022 00:48:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5
+[29-Sep-2022 00:48:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Model' not found in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/Models/ExampleModel.php on line 5

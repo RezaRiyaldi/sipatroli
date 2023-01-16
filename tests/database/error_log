@@ -1,0 +1,36 @@
+[21-May-2021 16:27:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[21-May-2021 16:27:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5
+[29-Sep-2022 00:47:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Tests\Support\DatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/database/ExampleDatabaseTest.php on line 5

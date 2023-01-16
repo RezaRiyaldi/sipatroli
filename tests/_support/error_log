@@ -1,0 +1,52 @@
+[29-Sep-2022 00:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php on line 3
+[29-Sep-2022 00:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php on line 3
+[29-Sep-2022 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:47:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:47:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIUnitTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/SessionTestCase.php on line 7
+[29-Sep-2022 00:48:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php on line 3
+[29-Sep-2022 00:48:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'CodeIgniter\Test\CIDatabaseTestCase' not found in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gemk7344/public_html/sipatroli/tests/_support/DatabaseTestCase.php on line 3
